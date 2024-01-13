@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **something great**
+- 🔭 I’m currently working on **Followy**
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
