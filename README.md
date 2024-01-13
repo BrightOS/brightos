@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Followy**
 
-- 🌱 I’m currently learning **Dart, Flutter**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 💬 Ask me about **any android stuff**
 
