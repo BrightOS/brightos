@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Followy**
+- 🔭 I’m currently working on **Android UI Library**
 
 - 🌱 I’m currently learning **Kotlin Multiplatform**
 
