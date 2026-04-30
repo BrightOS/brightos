@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **Android UI Library**
+- 🔭 I’m currently working in **Yandex Maps**
 
-- 🌱 I’m currently learning **Kotlin Multiplatform**
+- 🌱 I’m currently learning at **Moscow Aviation Institute**
 
-- 💬 Ask me about **any android stuff**
+- 💬 Ask me about **any android+kmp stuff**
 
 - 📫 How to reach me **slimedron@yandex.ru**
 
