@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working in **Yandex Maps**
 
-- 🌱 I’m currently learning at **Moscow Aviation Institute**
+- 🌱 I’m currently studying at **Moscow Aviation Institute**
 
 - 💬 Ask me about **any android+kmp stuff**
 
