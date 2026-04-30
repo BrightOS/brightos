@@ -1,5 +1,5 @@
 # <p align="center">Hello there 👋, I'm Denis</p>
-### <p align="center">A passionate Java/Kotlin Android-developer from Russia</p>
+### <p align="center">A passionate Mobile-developer (Android specifically) from Russia</p>
 <div align="center">
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=brightos&theme=gitdimmed&row=1&margin-w=15)
